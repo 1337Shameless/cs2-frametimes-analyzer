@@ -44,7 +44,7 @@ While rendering a frame may take a fraction of a millisecond on modern GPUs (`Ms
 2. Set the target application to `cs2.exe` and configure a capture hotkey.
 3. Jump into a Counter-Strike 2 match (Online or Local with bots) and record a **1 to 10-second capture** during active movement.
 4. Locate the generated `.csv` in your PresentMon folder (`Documents\PresentMon\Captures`).
-5. Open the [Live Analyzer](https:/1337shameless.github.io/cs2-frametimes-analyzer/) and drop your CSV into the page.
+5. Open the [Live Analyzer](https://1337shameless.github.io/cs2-frametimes-analyzer/) and drop your CSV into the page.
 
 ---
 
